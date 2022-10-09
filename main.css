@@ -10,11 +10,16 @@ body {
 }
 
 h1 {
-	font-size: 100px;
+	font-size: 80px;
+	color: aquamarine;
+	font-family: cursive;
+	padding-bottom: 25px;
 }
 
 h2 {
-	font-size: 40px;
+	font-size: 35px;
+	color:aquamarine;
+	font-family: cursive;
 }
 
 /* This just centers the header container vertically on the page. */
@@ -32,7 +37,7 @@ h2 {
 
 /* Styling for icons. */
 .fa {
-	color: white;
+	color: antiquewhite;
 	margin: 10px 5px;
 	font-size: 3em !important;
 }
